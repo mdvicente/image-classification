@@ -1,2 +1,2 @@
 # image-classification
-Image Classification with CNN using Tensorflow
+Image Classification with CNN using TensorFlow
